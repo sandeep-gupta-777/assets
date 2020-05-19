@@ -1,6 +1,6 @@
 var config = {
-apiKey: 'asdasd2102-3123',
-messagingSenderId: '888919119' 
+apiKey: 'AIzaSyCXm2h-NZjoBWfJRBPQguhCtrGfUjecpyo',
+messagingSenderId: '1081409813446' 
 }
 var imipush = {
 safariWebPushId: 'web.com.imiconnect.safari.webpush'

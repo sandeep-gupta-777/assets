@@ -1,7 +1,7 @@
 importScripts('https://www.gstatic.com/firebasejs/4.6.2/firebase-app.js');
 importScripts('https://www.gstatic.com/firebasejs/4.6.2/firebase-messaging.js');
 var config = {
-    'messagingSenderId': '888919119',
+    'messagingSenderId': '1081409813446',
     'serverUrl':'https://rtm.imiconnect.io',
     'appid':'IM20125455' 
 };/*importScripts('https://www.gstatic.com/firebasejs/4.6.2/firebase-app.js');
